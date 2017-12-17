@@ -258,6 +258,22 @@
 <dep name=".\Generated_Source\PSoC5\cytypes.h" />
 </file>
 <file name=".\Generated_Source\PSoC5\I2C_M_FF_SLAVE.c" />
+<file name=".\CortexM3\ARM_GCC_541\Debug\I2C_S_Si5351A.o">
+<dep name=".\Generated_Source\PSoC5\CyFlash.h" />
+<dep name=".\Generated_Source\PSoC5\CyLib.h" />
+<dep name=".\Generated_Source\PSoC5\CySpc.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_M_FF.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_M_FF_PVT.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_S_Si5351A.c" />
+<dep name=".\Generated_Source\PSoC5\I2C_S_Si5351A.h" />
+<dep name=".\Generated_Source\PSoC5\cyPm.h" />
+<dep name=".\Generated_Source\PSoC5\cydevice.h" />
+<dep name=".\Generated_Source\PSoC5\cydevice_trm.h" />
+<dep name=".\Generated_Source\PSoC5\cyfitter.h" />
+<dep name=".\Generated_Source\PSoC5\cytypes.h" />
+</file>
+<file name=".\Generated_Source\PSoC5\I2C_S_Si5351A.c" />
+<file name=".\Generated_Source\PSoC5\I2C_S_Si5351A.h" />
 <file name=".\CortexM3\ARM_GCC_541\Debug\LED_1.o">
 <dep name=".\Generated_Source\PSoC5\LED_1.c" />
 <dep name=".\Generated_Source\PSoC5\LED_1.h" />
@@ -289,6 +305,7 @@
 <dep name=".\Generated_Source\PSoC5\I2C0_SDA_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF_PVT.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_S_Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\P5LP_059_Debug.c" />
@@ -298,7 +315,6 @@
 <dep name=".\Generated_Source\PSoC5\SW_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig_aliases.h" />
-<dep name=".\Generated_Source\PSoC5\Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_API.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Debug.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Example.h" />
@@ -328,7 +344,6 @@
 <file name=".\Generated_Source\PSoC5\SW_1_aliases.h" />
 <file name=".\Generated_Source\PSoC5\Scope_Trig.h" />
 <file name=".\Generated_Source\PSoC5\Scope_Trig_aliases.h" />
-<file name=".\Generated_Source\PSoC5\Si5351A.h" />
 <file name=".\Generated_Source\PSoC5\TinyPrintf_API.h" />
 <file name=".\Generated_Source\PSoC5\TinyPrintf_Debug.h" />
 <file name=".\Generated_Source\PSoC5\TinyPrintf_Example.h" />
@@ -361,6 +376,7 @@
 <dep name=".\Generated_Source\PSoC5\I2C0_SDA_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF_PVT.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_S_Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\P5LP_059_Debug.h" />
@@ -370,7 +386,6 @@
 <dep name=".\Generated_Source\PSoC5\SW_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig_aliases.h" />
-<dep name=".\Generated_Source\PSoC5\Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_API.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Debug.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Example.h" />
@@ -416,21 +431,6 @@
 <dep name=".\Generated_Source\PSoC5\cytypes.h" />
 </file>
 <file name=".\Generated_Source\PSoC5\Scope_Trig.c" />
-<file name=".\CortexM3\ARM_GCC_541\Debug\Si5351A.o">
-<dep name=".\Generated_Source\PSoC5\CyFlash.h" />
-<dep name=".\Generated_Source\PSoC5\CyLib.h" />
-<dep name=".\Generated_Source\PSoC5\CySpc.h" />
-<dep name=".\Generated_Source\PSoC5\I2C_M_FF.h" />
-<dep name=".\Generated_Source\PSoC5\I2C_M_FF_PVT.h" />
-<dep name=".\Generated_Source\PSoC5\Si5351A.c" />
-<dep name=".\Generated_Source\PSoC5\Si5351A.h" />
-<dep name=".\Generated_Source\PSoC5\cyPm.h" />
-<dep name=".\Generated_Source\PSoC5\cydevice.h" />
-<dep name=".\Generated_Source\PSoC5\cydevice_trm.h" />
-<dep name=".\Generated_Source\PSoC5\cyfitter.h" />
-<dep name=".\Generated_Source\PSoC5\cytypes.h" />
-</file>
-<file name=".\Generated_Source\PSoC5\Si5351A.c" />
 <file name=".\CortexM3\ARM_GCC_541\Debug\TinyPrintf_API.o">
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_API.c" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_API.h" />
@@ -454,6 +454,7 @@
 <dep name=".\Generated_Source\PSoC5\I2C0_SDA_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF_PVT.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_S_Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\P5LP_059_Debug.h" />
@@ -462,7 +463,6 @@
 <dep name=".\Generated_Source\PSoC5\SW_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig_aliases.h" />
-<dep name=".\Generated_Source\PSoC5\Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_API.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Debug.c" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Debug.h" />
@@ -505,6 +505,7 @@
 <dep name=".\Generated_Source\PSoC5\I2C0_SDA_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF_PVT.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_S_Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\P5LP_059_Debug.h" />
@@ -513,7 +514,6 @@
 <dep name=".\Generated_Source\PSoC5\SW_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig_aliases.h" />
-<dep name=".\Generated_Source\PSoC5\Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_API.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Debug.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Example.c" />
@@ -556,6 +556,7 @@
 <dep name=".\Generated_Source\PSoC5\I2C0_SDA_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF_PVT.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_S_Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\P5LP_059_Debug.h" />
@@ -564,7 +565,6 @@
 <dep name=".\Generated_Source\PSoC5\SW_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig_aliases.h" />
-<dep name=".\Generated_Source\PSoC5\Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_API.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Debug.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Example.h" />
@@ -722,6 +722,7 @@
 <dep name=".\Generated_Source\PSoC5\I2C0_SDA_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF.h" />
 <dep name=".\Generated_Source\PSoC5\I2C_M_FF_PVT.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_S_Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1.h" />
 <dep name=".\Generated_Source\PSoC5\LED_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\P5LP_059_Debug.h" />
@@ -730,7 +731,6 @@
 <dep name=".\Generated_Source\PSoC5\SW_1_aliases.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig.h" />
 <dep name=".\Generated_Source\PSoC5\Scope_Trig_aliases.h" />
-<dep name=".\Generated_Source\PSoC5\Si5351A.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_API.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Debug.h" />
 <dep name=".\Generated_Source\PSoC5\TinyPrintf_Example.h" />
@@ -765,6 +765,22 @@
 <file name=".\Generated_Source\PSoC5\cydevicegnu.inc" />
 <file name=".\Generated_Source\PSoC5\cydevicegnu_trm.inc" />
 <file name=".\Generated_Source\PSoC5\cyfittergnu.inc" />
+<file name=".\Generated_Source\PSoC5\Si5351A.h" />
+<file name=".\CortexM3\ARM_GCC_541\Debug\Si5351A.o">
+<dep name=".\Generated_Source\PSoC5\CyFlash.h" />
+<dep name=".\Generated_Source\PSoC5\CyLib.h" />
+<dep name=".\Generated_Source\PSoC5\CySpc.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_M_FF.h" />
+<dep name=".\Generated_Source\PSoC5\I2C_M_FF_PVT.h" />
+<dep name=".\Generated_Source\PSoC5\Si5351A.c" />
+<dep name=".\Generated_Source\PSoC5\Si5351A.h" />
+<dep name=".\Generated_Source\PSoC5\cyPm.h" />
+<dep name=".\Generated_Source\PSoC5\cydevice.h" />
+<dep name=".\Generated_Source\PSoC5\cydevice_trm.h" />
+<dep name=".\Generated_Source\PSoC5\cyfitter.h" />
+<dep name=".\Generated_Source\PSoC5\cytypes.h" />
+</file>
+<file name=".\Generated_Source\PSoC5\Si5351A.c" />
 </CyGuid_1173175f-1b9b-4ad4-a065-754a48a27021>
 </dependency_info>
 </CyGuid_f44455c5-3770-4452-b988-0a7a7ff46256>
@@ -777,7 +793,7 @@
 <dep name=".\CortexM3\ARM_GCC_541\Debug\main.o" />
 <dep name=".\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o" />
 <dep name=".\CortexM3\ARM_GCC_541\Debug\cymetadata.o" />
-<dep name=".\CortexM3\ARM_GCC_541\Debug\Si5351A.o" />
+<dep name=".\CortexM3\ARM_GCC_541\Debug\I2C_S_Si5351A.o" />
 <dep name=".\CortexM3\ARM_GCC_541\Debug\Codec_MCLK.o" />
 <dep name=".\CortexM3\ARM_GCC_541\Debug\AudioClkSel.o" />
 <dep name=".\CortexM3\ARM_GCC_541\Debug\AudioClkSel_PM.o" />
@@ -868,9 +884,11 @@
 <name_val_pair name="Generated_Source\PSoC5\cyutils.c" v="-mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -Wa,-alh=${OutputDir}/${CompileFile}.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og" />
 <name_val_pair name="Generated_Source\PSoC5\cy_em_eeprom.c" v="-mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -Wa,-alh=${OutputDir}/${CompileFile}.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og" />
 <name_val_pair name="C:\cygwin64\home\noel\projects\P5LP\ComponentsTest\P5LP_AudioClkGen\P5LP_AudioClkGen.cydsn\CortexM3\ARM_GCC_541\Debug\P5LP_AudioClkGen.hex" v="-mcpu=cortex-m3 -mthumb -L Generated_Source\PSoC5 -Wl,-Map,${OutputDir}/${ProjectShortName}.map -T Generated_Source\PSoC5\cm3gcc.ld -specs=nano.specs -Wl,--gc-sections -g -ffunction-sections -Og -ffat-lto-objects" />
+<name_val_pair name="Generated_Source\PSoC5\I2C_S_Si5351A.c" v="-mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -Wa,-alh=${OutputDir}/${CompileFile}.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og" />
+<name_val_pair name="E:\cygwin64\home\noel\projects\P5LP\ComponentsTest\P5LP_AudioClkGen\P5LP_AudioClkGen.cydsn\CortexM3\ARM_GCC_541\Debug\P5LP_AudioClkGen.hex" v="-mcpu=cortex-m3 -mthumb -L Generated_Source\PSoC5 -Wl,-Map,${OutputDir}/${ProjectShortName}.map -T Generated_Source\PSoC5\cm3gcc.ld -specs=nano.specs -Wl,--gc-sections -g -ffunction-sections -Og -ffat-lto-objects" />
 </name>
 </genericCmdLineData>
-<codeGenCmdLineTag v="-.appdatapath &quot;C:\Users\noel\AppData\Local\Cypress Semiconductor\PSoC Creator\4.2&quot; -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p C:\cygwin64\home\noel\projects\P5LP\ComponentsTest\P5LP_AudioClkGen\P5LP_AudioClkGen.cydsn\P5LP_AudioClkGen.cyprj -d CY8C5888LTQ-LP097 -s C:\cygwin64\home\noel\projects\P5LP\ComponentsTest\P5LP_AudioClkGen\P5LP_AudioClkGen.cydsn\Generated_Source\PSoC5 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE" />
+<codeGenCmdLineTag v="-.appdatapath &quot;C:\Users\noel\AppData\Local\Cypress Semiconductor\PSoC Creator\4.2&quot; -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p E:\cygwin64\home\noel\projects\P5LP\ComponentsTest\P5LP_AudioClkGen\P5LP_AudioClkGen.cydsn\P5LP_AudioClkGen.cyprj -d CY8C5888LTQ-LP097 -s E:\cygwin64\home\noel\projects\P5LP\ComponentsTest\P5LP_AudioClkGen\P5LP_AudioClkGen.cydsn\Generated_Source\PSoC5 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE" />
 </CyGuid_b0374e30-ce3a-47f2-ad85-821643292c68>
 </dataGuid>
 <dataGuid v="597c5b74-0c46-4204-8b7f-96f3570671dc">
@@ -1013,9 +1031,9 @@
 <v>..\..\..\ComponentsDev\Odissey1_lib\Odissey1_lib.cylib\OffChip_XTAL_v0_0\OffChip_XTAL_v0_0.cysym</v>
 <v>..\..\..\ComponentsDev\Odissey1_lib\Odissey1_lib.cylib\OffChip_VccNamed_v0_0\OffChip_VccNamed_v0_0.cysym</v>
 <v>..\..\..\ComponentsDev\Odissey1_lib\Odissey1_lib.cylib\OffChip_GndNamed_v0_0\OffChip_GndNamed_v0_0.cysym</v>
-<v>..\..\..\ComponentsDev\ND_P5LP_Component_lib\ND_P5LP_Comp_lib.cylib\Si5351A\Si5351A.cysym</v>
-<v>..\..\..\ComponentsDev\ND_P5LP_Component_lib\ND_P5LP_Comp_lib.cylib\Si5351A\API\Si5351A.h</v>
-<v>..\..\..\ComponentsDev\ND_P5LP_Component_lib\ND_P5LP_Comp_lib.cylib\Si5351A\API\Si5351A.c</v>
+<v>..\..\..\ComponentsDev\ND_P5LP_Component_lib\ND_P5LP_Comp_lib.cylib\I2C_S_Si5351A\I2C_S_Si5351A.cysym</v>
+<v>..\..\..\ComponentsDev\ND_P5LP_Component_lib\ND_P5LP_Comp_lib.cylib\I2C_S_Si5351A\API\I2C_S_Si5351A.h</v>
+<v>..\..\..\ComponentsDev\ND_P5LP_Component_lib\ND_P5LP_Comp_lib.cylib\I2C_S_Si5351A\API\I2C_S_Si5351A.c</v>
 <v>${CyRoot}\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\cy_pins_v2_20.cysym</v>
 <v>${CyRoot}\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 <v>${CyRoot}\psoc\content\CyPrimitives\cyprimitives.cylib\cy_pins_v2_20\cy_pins_v2_20.cystate</v>
@@ -1250,8 +1268,8 @@
 <v>Generated_Source\PSoC5\cyfitteriar.inc</v>
 <v>Generated_Source\PSoC5\cyfitter.h</v>
 <v>Generated_Source\PSoC5\cydisabledsheets.h</v>
-<v>Generated_Source\PSoC5\Si5351A.h</v>
-<v>Generated_Source\PSoC5\Si5351A.c</v>
+<v>Generated_Source\PSoC5\I2C_S_Si5351A.h</v>
+<v>Generated_Source\PSoC5\I2C_S_Si5351A.c</v>
 <v>Generated_Source\PSoC5\Codec_MCLK_aliases.h</v>
 <v>Generated_Source\PSoC5\Codec_MCLK.c</v>
 <v>Generated_Source\PSoC5\Codec_MCLK.h</v>
@@ -1348,7 +1366,7 @@
 <v>C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\warp\lib\common\stdlogic\rtlpkg.vif</v>
 <v>C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\warp\lib\common\stdlogic\cy_psoc3.vif</v>
 </warp_dep>
-<deps_time v="131579560089370783" />
+<deps_time v="131580258800873241" />
 <top_block v="TopDesign" />
 <last_generation v="0" />
 <pdl_path v="" />
@@ -1358,7 +1376,7 @@
 <dataGuid v="769d31ea-68b1-4f0c-b90a-7c10a43ee563">
 <CyGuid_769d31ea-68b1-4f0c-b90a-7c10a43ee563 type_name="CyDesigner.Common.ProjMgmt.Model.CyLinkCustomData" version="1">
 <link_deps_times>
-<name_val_pair name="c9323d49-d323-40b8-9b59-cc008d68a989@Debug@CortexM3" v="131579560811660428" />
+<name_val_pair name="c9323d49-d323-40b8-9b59-cc008d68a989@Debug@CortexM3" v="131580259304708625" />
 </link_deps_times>
 </CyGuid_769d31ea-68b1-4f0c-b90a-7c10a43ee563>
 </dataGuid>

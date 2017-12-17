@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="P5LP_AudioClkGen\P5LP_AudioClkGen\TopDesign">
 <ExpandedNodeIds>
 <v>P5LP_AudioClkGen</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen</v>
@@ -34,6 +34,7 @@
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Source Files\main.c</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5</v>
+<v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\I2C_S_Si5351A</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>P5LP_AudioClkGen</v>
@@ -62,13 +63,15 @@
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\cy_boot</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\I2C_M_FF</v>
+<v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\I2C_S_Si5351A</v>
+<v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\I2C_S_Si5351A\I2C_S_Si5351A.c</v>
+<v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\I2C_S_Si5351A\I2C_S_Si5351A.h</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\I2C0_SCL</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\I2C0_SDA</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\LED_1</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\P5LP_059_Debug</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\PCF8574_LCD</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\Scope_Trig</v>
-<v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\Si5351A</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\SW_1</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\TinyPrintf</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\TriggerScope</v>
@@ -88,8 +91,6 @@
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\cydisabledsheets.h</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\cyfitter.h</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\cyfitter_cfg.c</v>
-<v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\cyfitter_cfg.h</v>
-<v>P5LP_AudioClkGen\P5LP_AudioClkGen\Generated_Source\PSoC5\cyfittergnu.inc</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -136,6 +137,7 @@
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_M_FF_MASTER.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_M_FF_PM.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_M_FF_SLAVE.lst</v>
+<v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_S_Si5351A.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C0_SCL.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C0_SDA.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_1.lst</v>
@@ -143,7 +145,6 @@
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\P5LP_059_Debug.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\PCF8574_LCD.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\Scope_Trig.lst</v>
-<v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\Si5351A.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\SW_1.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\TinyPrintf_API.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\TinyPrintf_Debug.lst</v>
@@ -190,6 +191,7 @@
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_M_FF_MASTER.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_M_FF_PM.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_M_FF_SLAVE.lst</v>
+<v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C_S_Si5351A.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C0_SCL.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\I2C0_SDA.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_1.lst</v>
@@ -197,7 +199,6 @@
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\P5LP_059_Debug.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\PCF8574_LCD.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\Scope_Trig.lst</v>
-<v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\Si5351A.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\SW_1.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\TinyPrintf_API.lst</v>
 <v>P5LP_AudioClkGen\P5LP_AudioClkGen\CortexM3\ARM_GCC_541\Debug\Listing Files\TinyPrintf_Debug.lst</v>
@@ -277,8 +278,6 @@
 <Unloaded />
 <OpenDocs>
 <name v=".\P5LP_AudioClkGen.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\P5LP_AudioClkGen.cydsn\P5LP_AudioClkGen.cydwr" />
-<name v=".\P5LP_AudioClkGen.cydsn\main.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -286,7 +285,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="941, 637" SelectedTabbedMdiWindow="d4a2fcce-24a9-49c3-916d-d672f137e3a1"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsTest\P5LP_AudioClkGen\P5LP_AudioClkGen.cydsn\TopDesign\TopDesign.cysch" Guid="d4a2fcce-24a9-49c3-916d-d672f137e3a1" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsTest\P5LP_AudioClkGen\P5LP_AudioClkGen.cydsn\P5LP_AudioClkGen.cydwr" Guid="085edd50-33d7-450b-9ebe-3e9c7b6c5086" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsTest\P5LP_AudioClkGen\P5LP_AudioClkGen.cydsn\main.c" Guid="84a7a489-39aa-481f-aaf5-c09c10768d55" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="35d98093-7181-46e8-954d-cdb561981641"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsTest\P5LP_AudioClkGen\P5LP_AudioClkGen.cydsn\TopDesign\TopDesign.cysch" Guid="35d98093-7181-46e8-954d-cdb561981641" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
