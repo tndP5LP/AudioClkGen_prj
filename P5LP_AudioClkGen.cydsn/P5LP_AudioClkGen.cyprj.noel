@@ -34,6 +34,19 @@
 <v>CDC Component Catalog\SchematicMacro\Debug</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
+<v>CDC Component Catalog\API_Code\USB_Audio\USBFS_I2S_DataFlow [v0.0]</v>
+<v>CDC Component Catalog\API_Code\Utility</v>
+<v>CDC Component Catalog\Component</v>
+<v>CDC Component Catalog\Component\UDB</v>
+<v>CDC Component Catalog\Component\UDB\cyDigitalAudio</v>
+<v>CDC Component Catalog\Component\UDB\cyDigitalAudio\AudioCLKGen_v0_83 [v0.83]</v>
+<v>CDC Component Catalog\Component\UDB\cyDigitalAudio\PDM_CIC_v2_0 [v2.0]</v>
+<v>CDC Component Catalog\Component\UDB\cyDigitalAudio\PDM_Comb_v1_0 [v1.0]</v>
+<v>CDC Component Catalog\Component\UDB\cyDigitalAudio\PDM_Integrator_v1_0 [v1.0]</v>
+<v>CDC Component Catalog\Component\UDB\cyDigitalAudio\UDB_ACG_v0_83 [v0.83]</v>
+<v>CDC Component Catalog\Component\UDB\TDust</v>
+<v>CDC Component Catalog\Component\UDB\TDust\Simple_Counter [v1.0]</v>
+<v>CDC Component Catalog\Component\UDB\TDust\Simple_TL_Control [v1.0]</v>
 <v>CDC Component Catalog\Component\UDB\TDust\State_Machine [v1.0]</v>
 <v>CDC Component Catalog\Component\UDB\TDust\TrafficLightController [v1.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation</v>
@@ -52,19 +65,6 @@
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\IC_Si5351A_L [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\IC_Si5351A_S [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\IC_Si8602 [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\IC_Si8661 [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Kit</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Template</v>
-<v>CDC Component Catalog\SchematicMacro</v>
-<v>CDC Component Catalog\SchematicMacro\CharLCD</v>
-<v>CDC Component Catalog\SchematicMacro\CharLCD\CharLCD_I2C_M [v0.0]</v>
-<v>CDC Component Catalog\SchematicMacro\Debug</v>
-<v>CDC Component Catalog\SchematicMacro\Debug\P5LP_DBG [v0.0]</v>
-<v>CDC Component Catalog\SchematicMacro\Debug\ScopeTrigger [v0.0]</v>
-<v>CDC Component Catalog\SchematicMacro\USB_Audio</v>
-<v>CDC Component Catalog\SchematicMacro\USB_Audio [v0.0]</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -1329,7 +1329,7 @@
 <v>C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\warp\lib\common\stdlogic\rtlpkg.vif</v>
 <v>C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\warp\lib\common\stdlogic\cy_psoc3.vif</v>
 </warp_dep>
-<deps_time v="131772377080672321" />
+<deps_time v="131772383875686291" />
 <top_block v="TopDesign" />
 <last_generation v="1" />
 <pdl_path v="" />
@@ -1339,7 +1339,7 @@
 <dataGuid v="769d31ea-68b1-4f0c-b90a-7c10a43ee563">
 <CyGuid_769d31ea-68b1-4f0c-b90a-7c10a43ee563 type_name="CyDesigner.Common.ProjMgmt.Model.CyLinkCustomData" version="1">
 <link_deps_times>
-<name_val_pair name="c9323d49-d323-40b8-9b59-cc008d68a989@Debug@CortexM3" v="131772377335359335" />
+<name_val_pair name="c9323d49-d323-40b8-9b59-cc008d68a989@Debug@CortexM3" v="131772384101009283" />
 </link_deps_times>
 </CyGuid_769d31ea-68b1-4f0c-b90a-7c10a43ee563>
 </dataGuid>
